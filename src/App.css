@@ -1,0 +1,110 @@
+.home {
+
+  background-image: url(/src/assets/house.png);
+  background-size: cover;
+
+ 
+}
+
+
+
+  #bg{
+    background-image: url(/src//assets/2.png);
+    background-size: cover;
+    width: 100%;
+   height: 450px;
+  }
+  #btn{
+    background: linear-gradient(104.58deg, #056088 10.57%, #09A7CA 96.62%);
+
+  }
+  .hg{
+    background: linear-gradient(26.47deg, #023957 22.58%, #056088 94.16%);
+
+  }
+  #gh{
+    background-image: url(/src//assets//bg.png);
+  }
+  #gh2{
+    background-image: url(/src//assets//bg2.png);
+  }
+  #gh3{
+    background-image: url(/src//assets//b3.png);
+  }
+  #newbg{
+    background-image: url(/src//assets/newbg.png);
+   background-size: cover;
+  }
+  .container {  display: grid;
+    grid-template-columns: 3fr 3fr 3.4fr 3.4fr 3fr 3.8fr;
+    /* Adjust the fr units to control the size of your rows */
+    grid-template-rows: 2.8fr 3.4fr 3.2fr;
+    gap: 10px 10px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "areastart area2 area4 area4 ara6 area8"
+      "area1 area2 area4 area4 ara6 area9"
+      "area1 area2 area5 area5 area90 area90";
+      width: 100vw;
+    
+  }
+  
+  
+  .area1 { grid-area: area1; }
+  
+  .area2 { grid-area: area2; }
+  
+  .areastart { grid-area: areastart; }
+  
+  .ara6 { grid-area: ara6; }
+  
+  .area8 { grid-area: area8; }
+  
+  .area9 { grid-area: area9; }
+  
+  .area5 { grid-area: area5; }
+  
+  .area90 { grid-area: area90; }
+  
+  .area4 { grid-area: area4; }
+  
+  
+  
+  .container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  body, .container {
+    box-sizing: border-box;
+  }
+  #hi{
+    background-image: url(/src//assets/bg3.png);
+  }
+  .all{
+    background-image: url(/src/assets/all.png);
+    background-size: cover;
+  }
+  #zz{
+    background-image: url(/src/assets//zz.png);
+  }
+  #t{
+    background-color: green;
+  }
+  .hop{
+    background-image: url(/src/assets/kop.png);
+  }
+  .hop1{
+    background-image: url(/src/assets/kop2.png);
+  }
+  #yebye{
+    background-image: url('src/assets/Rectangle 24.png');
+  }
+  .newbg1{
+    background-image: url(/src//assets/newbg2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .lop{
+    background-image: url(/src//assets/lop.png);
+  }
