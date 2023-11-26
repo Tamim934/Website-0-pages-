@@ -5,7 +5,7 @@
 {
   "Work": [ 
     { 
-      "title": "Interior design",
+      "title": "Interior design", 
       "color": "", 
       "photo": "",
       "font": "",
