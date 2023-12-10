@@ -8,7 +8,7 @@
       "title": "Interior design", 
       "color": "",  
       "photo": "",
-      "font": "",
+      "font": "", 
       "id": 1  
        } 
 }  
