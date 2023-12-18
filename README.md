@@ -5,7 +5,7 @@
      # npm i  
      
     
-## create a db.jsom with these    
+## create a db.jsom with these     
       
 { 
   "Work": [   
