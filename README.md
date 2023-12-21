@@ -12,7 +12,7 @@
   "Work": [   
     {    
       "title": "Interior design", 
-      "color": "",  
+      "color": "",   
       "photo": "",
       "font": "",  
       "id": 1    
