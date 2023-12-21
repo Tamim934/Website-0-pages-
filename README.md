@@ -13,7 +13,7 @@
     {    
       "title": "Interior design", 
       "color": "",   
-      "photo": "",
+      "photo": "", 
       "font": "",  
       "id": 1    
        } 
