@@ -3,7 +3,7 @@
        
    
   
-     # npm i   
+     # npm i    
      
       
 ## create a db.jsom with these      
