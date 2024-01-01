@@ -9,7 +9,7 @@
        
 {  
   "Work": [   
-    {     
+    {      
      
       "title": "Interior design",   
       "color": "",   
